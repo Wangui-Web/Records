@@ -1,0 +1,41 @@
+main{
+    padding-top:58px
+}
+
+#btn{
+    border: none;
+    outline: none;
+}
+#nav{
+    position: absolute;
+    top: 20%;
+    right: 3%;
+}
+.navbar-header{
+    width:100%
+}
+.nav-link{
+    margin-right: 13px;
+}
+.nav-link:hover{
+    border-bottom:1px solid black;
+    transform: scale(1.1);
+}
+.jumbotron h4{
+    text-align: center;
+}
+.jumbotron{
+    margin-top: 10px;
+}
+.form-group input{
+    text-align: center;
+}
+.btn-container{
+    display:flex;
+    width: 100%;
+    justify-content: space-around;
+    padding-top: 20px;
+}
+#btm-row{
+    margin-bottom: 20px;
+}
